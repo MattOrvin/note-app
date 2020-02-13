@@ -1,9 +1,17 @@
 import React from 'react'
+import Note from './Note.js'
 
 function SideBar(){
+
+    const divStyle = {
+        display: 'flex',
+        alignItems: 'left'
+    }
+
     return(
-        <div>
-            <h1>Side Bar</h1>
+        <div style={divStyle}>
+            <h3>Side Bar</h3>
+            <Note />
         </div>
     )
 }
