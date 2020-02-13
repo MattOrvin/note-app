@@ -1,0 +1,7 @@
+.SideBar {
+    display: flex;
+    flex-direction: column;
+    border: 5px solid #ffcc5c;
+    background-color: red;
+    text-align: left;
+}

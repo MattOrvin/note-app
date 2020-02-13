@@ -3,7 +3,7 @@ import React from 'react'
 function Note(){
     return(
         <div>
-            <p>note component here</p>
+            <p>note component</p>
         </div>
     )
 }
