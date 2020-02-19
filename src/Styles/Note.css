@@ -1,0 +1,7 @@
+.Note {
+    display: flex;
+    flex: 1;
+    border: 3px solid #ffcc5c;
+    background-color: red;
+}
+

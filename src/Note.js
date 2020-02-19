@@ -1,9 +1,11 @@
 import React from 'react'
+import './Styles/Note.css'
 
 function Note(){
     return(
-        <div>
+        <div className="Note">
             <p>note component</p>
+            <p>{}</p>
         </div>
     )
 }
